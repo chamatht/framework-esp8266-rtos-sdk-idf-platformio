@@ -17,7 +17,7 @@
     "https://dl.bintray.com/platformio/dl-packages/manifest.json", 
     "http://dl.platformio.org/packages/manifest.json",
     "https://github.com/WallaceWilliam/curl_for_win/raw/master/manifest.json",
-    "https://github.com/chamatht/xtensa-lx106-elf/raw/master/manifest.json"
+    "https://github.com/chamatht/esp8266-xtensa-lx106-elf/raw/master/manifest.json"
   ],
   "frameworks": {
     "esp8266-rtos-sdk": {
